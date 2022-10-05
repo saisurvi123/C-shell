@@ -1,0 +1,21 @@
+cd clear
+clear
+clear
+cd -
+cd .
+cd ..
+clear
+clear
+sleep 100
+clear
+sleep 100 &
+jobs
+fg 1
+clear
+clear
+jobs
+fg 1
+clear
+clear
+clear
+exit
